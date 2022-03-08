@@ -1,2 +1,2 @@
 # diagrams-public
-some diagrams
+some public diagrams
